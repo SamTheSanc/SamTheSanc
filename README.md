@@ -1,10 +1,13 @@
-<img src="https://i.imgur.com/Z3w0JDG.png" />
+<img src="https://i.imgur.com/Z3w0JDG.png" height="200" />
 
 
 # Haio!! :D
 
 15yr Cambodian travelling the internet...
 I know a lot of things, like, a LOT..
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=SamTheSanc&label=Profile%20Views&color=000064&style=flat-square" alt="Views" />
+  </p>
 
 
 ## what do i know?
